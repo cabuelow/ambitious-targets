@@ -16,7 +16,7 @@ This repository provides the code and data to reproduce all figures and suppleme
 
 1. 01_outlier-capping.R
     - Identify and cap annual rate of extent change outliers
-    - Produces Supplementary Table S1
+    - Produce Supplementary Table S1
 2. 02_seagrass-country-summary.R
     - Produce summary for information for seagrass countries (number of sites, and temporal range of observations)
 
