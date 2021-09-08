@@ -31,6 +31,7 @@ This repository provides the code and data to reproduce all figures and suppleme
 
 5. 04_plot-state-trajectories.R
    - Produce Fig 2, a plot of habitat state trajectories through time under scenarios
+   - Produce Figures for Supplementary Material 2 and 3, habitat state trajectories for individual countries for mangroves and seagrass, respectively
 6. 05_plot-extent-change.R
    - Calculate extent change summary stats under each scenario
    - Produce Fig 3, a bar plot of extent change (with percentages) under each scenario
