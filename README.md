@@ -16,7 +16,7 @@ This repository provides the code and data to reproduce all figures and suppleme
 
 1. 01_outlier-capping.R
     - Identify and cap annual rate of extent change outliers
-    - Produce Supplementary Table S1
+    - Produce Supplementary Materials 1, Table S1
 2. 02_seagrass-country-summary.R
     - Produce summary for information for seagrass countries (number of sites, and temporal range of observations)
 
@@ -31,7 +31,7 @@ This repository provides the code and data to reproduce all figures and suppleme
 
 5. 04_plot-state-trajectories.R
    - Produce Fig 2, a plot of habitat state trajectories through time under scenarios
-   - Produce Figures for Supplementary Material 2 and 3, habitat state trajectories for individual countries for mangroves and seagrass, respectively
+   - Produce Figures for Supplementary Materials 2 and 3, habitat state trajectories for individual countries for mangroves and seagrass, respectively
 6. 05_plot-extent-change.R
    - Calculate extent change summary stats under each scenario
    - Produce Fig 3, a bar plot of extent change (with percentages) under each scenario
