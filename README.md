@@ -22,4 +22,25 @@ This repository provides the code and data to reproduce all figures and suppleme
 
 #### Project mangrove and seagrass extent under baseline and conservation scenarios
 
+3. 03_scenario-projections_mangrove.R
+    - Project mangrove extent to 2070 under baseline, protection and restoration scenarios 
+4. 03_scenario-projections_seagrass.R
+    - Project seagrass extent to 2070 under baseline, protection and restoration scenarios 
+
+#### Plot mangrove and seagrass projections
+
+5. 04_plot-state-trajectories.R
+   - Produce Fig 2, a plot of habitat state trajectories through time under scenarios
+6. 04_plot-extent-change.R
+   - Calculate extent change summary stats under each scenario
+   - Produce Fig 3, a bar plot of extent change (with percentages) under each scenario
+7. 04_map-protection-restoration.R
+   - Produce Fig 4, a map of required protection and restoration in each country to reach ambitious conservation targets
+8. 04_plot-restoration-feasibility.R
+   - Produce Fig 5, correlation between projected and empirical restoration rates
+
+#### Sensitivity analyses
+
+9. 05_....
+
 ### Data sources
