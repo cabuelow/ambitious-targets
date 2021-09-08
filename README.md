@@ -12,7 +12,7 @@ This repository provides the code and data to reproduce all figures and suppleme
 
 ### Scripts
 
-## Prepare data for model projections and produce summary information for supplementary material
+#### Prepare data for model projections and produce summary information for supplementary material
 
 1. 01_outlier-capping.R
     - Identify and cap annual rate of extent change outliers
@@ -20,6 +20,6 @@ This repository provides the code and data to reproduce all figures and suppleme
 2. 02_seagrass-country-summary.R
     - Produce summary for information for seagrass countries (number of sites, and temporal range of observations)
 
-## Project mangrove and seagrass extent under baseline and conservation scenarios
+#### Project mangrove and seagrass extent under baseline and conservation scenarios
 
 ### Data sources
