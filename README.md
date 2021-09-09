@@ -36,9 +36,9 @@ This repository provides the code and data to reproduce all figures and suppleme
    - Calculate extent change summary stats under each scenario
    - Produce Fig 3, a bar plot of extent change (with percentages) under each scenario
 7. 06_map-protection-restoration.R
-   - Produce Fig 4, a map of required protection and restoration in each country to reach ambitious conservation targets
+   - Produce Fig 4, a map of relative importance of protection and restoration in each country to reach ambitious conservation targets
 8. 07_plot-restoration-feasibility.R
-   - Produce Fig 5, correlation between projected and empirical restoration rates
+   - Produce Fig 5, correlation between projected and observed restoration rates
 
 #### Sensitivity analyses
 
