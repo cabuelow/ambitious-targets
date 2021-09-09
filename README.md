@@ -42,6 +42,15 @@ This repository provides the code and data to reproduce all figures and suppleme
 
 #### Sensitivity analyses
 
-9. 08_....
+9. 08_sensitivity-loss-rates.R
+   - Produce Fig S1, test the sensitivity of extent change projections to increases or decreases in annual rates of loss
+11. 09_sensitivity-expansion-rates.R
+   - Produce Fig S2, test the sensitivity of extent change projections to increases or decreases in annual rates of expansion
+13. 10_sensitivity-restorable-area.R
+   - Produce Fig S3, test the sensitivity of extent change projections to increases or decreases in restorable area
+15. 11_sensitivity-protection-assumptions.R
+   - Produce Fig S4 and S5, test the sensitivity of extent change projections to the effectiveness of protection
+17. 12_sensitivity-restoration-success.R
+   - Produce Fig S6, test the sensitivity of extent change projections to variable restoration success
 
 ### Data sources
