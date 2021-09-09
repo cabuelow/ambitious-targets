@@ -45,14 +45,14 @@ This repository provides the code and data to reproduce all figures and suppleme
 9. 08_sensitivity-loss-rates.R
    - Produce Fig S1, test the sensitivity of extent change projections to increases or decreases in annual rates of loss
 10. 09_sensitivity-expansion-rates.R
-   - Produce Fig S2, test the sensitivity of extent change projections to increases or decreases in annual rates of expansion
-11. 10_sensitivity-restorable-area.R
-   - Produce Fig S3, test the sensitivity of extent change projections to increases or decreases in restorable area
-12. 11_sensitivity-protection-efficacy.R
-   - Produce Fig S4, test the sensitivity of extent change projections to the effectiveness of protection
-13. 12_sensitivity-protection-assumptions.R
-   - Produce Fig S5, test the sensitivity of extent change projections to PADD, leakage and whether seagrass protection is targeted
-14. 13_sensitivity-restoration-success.R
-   - Produce Fig S6, test the sensitivity of extent change projections to variable restoration success
+    - Produce Fig S2, test the sensitivity of extent change projections to increases or decreases in annual rates of expansion
+12. 10_sensitivity-restorable-area.R
+    - Produce Fig S3, test the sensitivity of extent change projections to increases or decreases in restorable area
+14. 11_sensitivity-protection-efficacy.R
+    - Produce Fig S4, test the sensitivity of extent change projections to the effectiveness of protection
+16. 12_sensitivity-protection-assumptions.R
+    - Produce Fig S5, test the sensitivity of extent change projections to PADD, leakage and whether seagrass protection is targeted
+18. 13_sensitivity-restoration-success.R
+    - Produce Fig S6, test the sensitivity of extent change projections to variable restoration success
 
 ### Data sources
