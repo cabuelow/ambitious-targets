@@ -2,7 +2,7 @@
 
 Citation: Buelow et al. (*in prep*) *'Ambitious targets lead to coastal ecosystem recovery'*
 
-[About](#about) | [Abstract](#abstract) | | [Graphical summary](#graphical-summary) | [Scripts](#scripts) | [Data sources](#data-sources) | [License](LICENSE)
+[About](#about) | [Abstract](#abstract) | [Graphical summary](#graphical-summary) | [Scripts](#scripts) | [Data sources](#data-sources) | [License](LICENSE)
 
 ### About
 
