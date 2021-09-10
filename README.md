@@ -10,6 +10,8 @@ This repository provides the code and data to reproduce all figures and suppleme
 
 ### Abstract
 
+There is an urgent need to halt and reverse loss of coastal wetlands and protect their important ecosystem services, such as enhancing coastal resilience and contributing to stabilising global climate. Ambitious protection and restoration targets inspire public and private investment, but the timelines and potential for achieving recovery are unclear. We quantified what could be achieved for mangrove and seagrass ecosystems if conservation actions are undertaken to meet a range of intermediate and ambitious targets set for the years 2030 and 2050. We measured potential recovery as gains in ecosystem extent against a baseline scenario of no additional conservation. By 2050, protection alone was unlikely to drive sufficient recovery, achieving a maximum global net gain in seagrass extent of only 1.3% additional to known maximum extent, and reducing current trajectories of net mangrove loss. However, if action is taken to both protect and restore, net gains of up to 35 and 5% additional to the maximum observed or mapped extent of seagrasses and mangroves, respectively, could be achieved by 2050. Further, protection and restoration are complementary, as protection prevents losses that would otherwise occur post-2050. These projections provide the scientific evidence required for setting ambitious targets to inspire significant global investment and effort in coastal wetland conservation.
+
 ### Scripts
 
 #### Prepare data for model projections and produce summary information for supplementary material
