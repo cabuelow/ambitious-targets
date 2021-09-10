@@ -88,7 +88,7 @@ class2 <- mang2 %>%
   mutate(cut = ifelse(rest.prop == 0, 1, cut)) %>% 
   arrange(rowid)
 
-mang2$cut <- class1$cut + 3 * (class2$cut - 1)
+mang2$cut <- factor(class1$cut + 3 * (class2$cut - 1))
 
 sea2 <- sea.R %>% 
   full_join(select(sea.P, SOVEREIGN1, prot.prop), by = 'SOVEREIGN1') %>% 
@@ -109,7 +109,7 @@ class2 <- sea2 %>%
   mutate(cut = ifelse(rest.prop == 0, 1, cut)) %>% 
   arrange(rowid)
 
-sea2$cut <- c(class1$cut + 3 * (class2$cut - 1))
+sea2$cut <- factor(c(class1$cut + 3 * (class2$cut - 1)))
 
 # create a legend
 
@@ -136,10 +136,13 @@ world.dat <- countries %>%
   st_make_valid() %>% 
   st_crop(st_bbox(c(xmin = -180, xmax = 180, ymax = 50, ymin = -55)))
 
+index <- as.numeric(sort(as.character(unique(world.dat$cut))))
+pal <- stevens.greenblue(n=9)[index]
+
 mm <- tm_shape(world.agg) +
   tm_fill(col = 'grey15') +
   tm_shape(world.dat) +
-  tm_polygons('cut', palette = stevens.greenblue(n = 9),legend.show = F) +
+  tm_polygons('cut', palette = pal,legend.show = F) +
   tm_layout(panel.label.size = 0.7,
             panel.label.bg.color = 'white',
             legend.text.size = 0.5,
@@ -166,6 +169,9 @@ world.dat2s <- countries %>%
   st_transform(crs = 4326) %>%
   st_make_valid() %>% 
   st_crop(st_bbox(c(xmin = -180, xmax = 180, ymax = 71, ymin = -55)))
+
+index <- as.numeric(sort(as.character(unique(world.dat2s$cut))))
+pal <- stevens.greenblue(n=9)[index]
 
 m3 <- tm_shape(world.agg2) +
   tm_fill(col = 'grey15') +
