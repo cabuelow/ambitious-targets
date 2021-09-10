@@ -15,7 +15,7 @@ There is an urgent need to halt and reverse loss of coastal wetlands and protect
 ### Graphical summary
 
 <p align="center">
-  <img width="600" height="350" src="https://github.com/cabuelow/wetland-futures/blob/main/img.png">
+  <img width="600" height="350" src="https://github.com/cabuelow/ambitious-targets/blob/main/img.png">
 </p>
 
 ### Scripts
