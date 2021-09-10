@@ -2,6 +2,8 @@
 
 Citation: Buelow et al. (*in prep*) *'Ambitious targets lead to coastal ecosystem recovery'*
 
+An interactive web application and associated code can be found [here](https://github.com/cabuelow/wetland-futures-app)
+
 [About](#about) | [Abstract](#abstract) | [Graphical summary](#graphical-summary) | [Scripts](#scripts) | [Data sources](#data-sources) | [License](LICENSE)
 
 ### About
