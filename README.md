@@ -60,3 +60,13 @@ There is an urgent need to halt and reverse loss of coastal wetlands and protect
     - Produce Fig S6, test the sensitivity of extent change projections to variable restoration success
 
 ### Data sources
+
+| Ecosystem  | Data source(s) for processing/analysis |
+| ------------- | ------------- |
+| Mangrove | Bunting P., Rosenqvist A., Lucas R., Rebelo L-M., Hilarides L., Thomas N., Hardy A., Itoh T., Shimada M. and Finlayson C.M. 2018. The Global Mangrove Watch – a New 2010 Global Baseline of Mangrove Extent. Remote Sensing 10(10): 1669. doi: 10.3390/rs1010669.
+| Mangrove | Goldberg, L., Lagomasino, D., Thomas, N., & Fatoyinbo, T. 2020. Global declines in human‐driven mangrove loss. Global Change Biology, gcb.15275. https://doi.org/10.1111/gcb.15275
+| Mangrove | UNEP-WCMC. 2017. World Database on Protected Areas User Manual 1.5. UNEP-WCMC: Cambridge, UK. Available at: http://wcmc.io/WDPA_Manual; |
+| Seagrass | Dunic, J. C., Brown, C. J., Connolly, R. M., Turschwell, M. P., & Côté, I. M. 2021. Long‐term declines and recovery of meadow area across the world’s seagrass bioregions. Global Change Biology, gcb.15684. https://doi.org/10.1111/gcb.15684
+| Seagrass | Waycott, M., Duarte, C. M., Carruthers, T. J. B., Orth, R. J., Dennison, W. C., Olyarnik, S., … Williams, S. L. 2009. Accelerating loss of seagrasses across the globe threatens coastal ecosystems. Proceedings of the National Academy of Sciences of the United States of America, 106, 12377–12381. |
+| Both | Flanders Marine Institute. 2020. ESRI Country shapefile and the Exclusive Economic Zones (version 3). Available online at http://www.marineregions.org/ https://doi.org/10.14284/403 |
+
