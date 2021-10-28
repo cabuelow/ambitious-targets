@@ -34,15 +34,15 @@ There is an urgent need to halt and reverse loss of coastal wetlands and protect
 #### Plot mangrove and seagrass projections
 
 5. 04_plot-state-trajectories.R
-   - Produce Fig 2, a plot of habitat state trajectories through time under scenarios
+   - Produce Fig 1, a plot of habitat state trajectories through time under scenarios
    - Produce Figures for Supplementary Materials 2 and 3, habitat state trajectories for individual countries for mangroves and seagrass, respectively
 6. 05_plot-extent-change.R
    - Calculate extent change summary stats under each scenario
-   - Produce Fig 3, a bar plot of extent change (with percentages) under each scenario
+   - Produce Fig 2, a bar plot of extent change (with percentages) under each scenario
 7. 06_map-protection-restoration.R
-   - Produce Fig 4, a map of relative proportion of observed ecosystem extent required to be protected or restored in each country to reach ambitious conservation targets
+   - Produce Fig 3, a map of relative proportion of observed ecosystem extent required to be protected or restored in each country to reach ambitious conservation targets
 8. 07_plot-restoration-feasibility.R
-   - Produce Fig 5, correlation between projected and observed restoration rates
+   - Produce Fig 4, correlation between required and observed restoration amounts in any given year
 
 #### Sensitivity analyses
 
