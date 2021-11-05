@@ -41,22 +41,20 @@ There is an urgent need to halt and reverse loss of coastal wetlands and protect
    - Produce Fig 2, a bar plot of extent change (with percentages) under each scenario
 7. 06_map-protection-restoration.R
    - Produce Fig 3, a map of relative proportion of observed ecosystem extent required to be protected or restored in each country to reach ambitious conservation targets
-8. 07_plot-restoration-feasibility.R
-   - Produce Fig 4, correlation between required and observed restoration amounts in any given year
 
 #### Sensitivity analyses
 
-9. 08_sensitivity-loss-rates.R
+8. 07_sensitivity-loss-rates.R
    - Produce Fig S1, test the sensitivity of extent change projections to increases or decreases in annual rates of loss
-10. 09_sensitivity-expansion-rates.R
+9. 08_sensitivity-expansion-rates.R
     - Produce Fig S2, test the sensitivity of extent change projections to increases or decreases in annual rates of expansion
-12. 10_sensitivity-restorable-area.R
+10. 09_sensitivity-restorable-area.R
     - Produce Fig S3, test the sensitivity of extent change projections to increases or decreases in restorable area
-14. 11_sensitivity-protection-efficacy.R
+11. 10_sensitivity-protection-efficacy.R
     - Produce Fig S4, test the sensitivity of extent change projections to the effectiveness of protection
-16. 12_sensitivity-protection-assumptions.R
+12. 11_sensitivity-protection-assumptions.R
     - Produce Fig S5, test the sensitivity of extent change projections to PADD, leakage and whether seagrass protection is targeted
-18. 13_sensitivity-restoration-success.R
+13. 12_sensitivity-restoration-success.R
     - Produce Fig S6, test the sensitivity of extent change projections to variable restoration success
 
 ### Data sources
