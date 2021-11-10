@@ -1,6 +1,6 @@
 ## Code and data for ‘Ambitious targets for coastal ecosystem recovery'
 
-Citation: Buelow et al. (*in prep*) *'Ambitious targets for coastal ecosystem recovery'*
+Citation: Buelow et al. (*submitted*) *'Ambitious targets for coastal ecosystem recovery'* in **Current Biology**
 
 An interactive web application and associated code can be found [here](https://github.com/cabuelow/wetland-futures-app)
 
@@ -8,7 +8,7 @@ An interactive web application and associated code can be found [here](https://g
 
 ### About
 
-This repository provides the code and data to reproduce all figures and supplemental figures/tables found in Buelow et al. (*in prep*)
+This repository provides the code and data to reproduce all figures and supplemental figures/tables found in Buelow et al. (*submitted*)
 
 ### Abstract
 
