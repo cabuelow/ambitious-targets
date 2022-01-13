@@ -1,6 +1,6 @@
-## Code and data for ‘Ambitious targets for coastal ecosystem recovery'
+## Code and data for ‘Ambitious targets for mangrove and seagrass recovery'
 
-Citation: Buelow et al. (*under review*) *'Ambitious targets for coastal ecosystem recovery'* in **Current Biology**
+Citation: Buelow et al. (*under review*) *'Ambitious targets for mangrove and seagrass recovery'* in **Current Biology**
 
 An interactive web application and associated code can be found [here](https://github.com/cabuelow/wetland-futures-app)
 
@@ -10,19 +10,20 @@ An interactive web application and associated code can be found [here](https://g
 
 This repository provides the code and data to reproduce all figures and supplemental figures/tables found in Buelow et al. (*under review*)
 
-### Abstract
+### Summary
 
-There is an urgent need to halt and reverse loss of coastal wetlands and protect the ecosystem services they provide, such as enhancing coastal resilience and contributing to stabilising global climate. Ambitious targets for ecosystem recovery inspire public and private investment in conservation, but the expected benefits of different protection and restoration strategies is unclear. We estimated potential recovery of mangrove and seagrass ecosystems to the year 2050 under a range of intermediate and ambitious protection and restoration strategies. We measured recovery as gains in ecosystem extent against a baseline scenario of no additional conservation. By 2050, protection alone is unlikely to drive sufficient recovery, achieving a maximum global net gain in seagrass extent of only 1.3% additional to total observed extent, and slowing, but not stopping, current trajectories of net mangrove loss. However, if action is taken to both protect and restore, net gains of up to 35% and 5% of seagrasses and mangroves, respectively, could be achieved by 2050. Further, protection and restoration are complementary, as protection prevents losses that would otherwise occur post-2050. Our findings provide the scientific evidence required for setting strategic and ambitious targets to inspire significant global investment and effort in coastal wetland conservation. 
+There is an urgent need to halt and reverse loss of mangroves and seagrass to protect the ecosystem services they provide, such as enhancing coastal resilience and contributing to climate stability. Ambitious targets for their recovery can inspire public and private investment in conservation, but the expected benefits of different protection and restoration strategies is unclear. We estimated potential recovery of mangrove and seagrass ecosystems to the year 2050 under a range of intermediate and ambitious protection and restoration strategies. We measured recovery as gains in ecosystem extent against a baseline scenario of no additional conservation. By 2050, protection alone is unlikely to drive sufficient recovery, achieving a maximum global net gain in seagrass extent of only 1.3% additional to total observed extent, and slowing, but not stopping, current trajectories of net mangrove loss. However, if action is taken to both protect and restore, net gains of up to 35% and 5% of seagrasses and mangroves, respectively, could be achieved by 2050. Further, protection and restoration are complementary, as protection prevents losses that would otherwise occur post-2050. Our findings provide the scientific evidence required for setting strategic and ambitious targets to inspire significant global investment and effort in mangrove and seagrass conservation. 
 
 ### Scripts
 
 #### Prepare data for model projections and produce summary information for supplementary material
 
-1. 01_outlier-capping.R
+1. 01_seagrass-country-summary.R
+    - Summary for information for seagrass countries (number of sites, and temporal range of observations)
+    - Produce Table S2
+2. 02_outlier-capping.R
     - Identify and cap annual rate of extent change outliers
-    - Produce Supplementary Materials 1, Table S1
-2. 02_seagrass-country-summary.R
-    - Produce summary for information for seagrass countries (number of sites, and temporal range of observations)
+    - Produce Table S3
 
 #### Project mangrove and seagrass extent under baseline and conservation scenarios
 
@@ -33,28 +34,25 @@ There is an urgent need to halt and reverse loss of coastal wetlands and protect
 
 #### Plot mangrove and seagrass projections
 
-5. 04_plot-state-trajectories.R
-   - Produce Fig 1, a plot of habitat state trajectories through time under scenarios
-   - Produce Figures for Supplementary Materials 2 and 3, habitat state trajectories for individual countries for mangroves and seagrass, respectively
-6. 05_plot-extent-change.R
+7. 04_plot-extent-change.R
    - Calculate extent change summary stats under each scenario
-   - Produce Fig 2, a bar plot of extent change (with percentages) under each scenario
-7. 06_map-protection-restoration.R
-   - Produce Fig 3, a map of relative proportion of observed ecosystem extent required to be protected or restored in each country to reach ambitious conservation targets
+   - Produce Fig 1, a bar plot of extent change (with percentages) under each scenario
+8. 05_map-protection-restoration.R
+   - Produce Fig 2, a map of relative proportion of observed ecosystem extent required to be protected or restored in each country to reach ambitious conservation targets
 
 #### Sensitivity analyses
 
-8. 07_sensitivity-loss-rates.R
+9. 06_sensitivity-loss-rates.R
    - Produce Fig S1, test the sensitivity of extent change projections to increases or decreases in annual rates of loss
-9. 08_sensitivity-expansion-rates.R
+10. 07_sensitivity-expansion-rates.R
     - Produce Fig S2, test the sensitivity of extent change projections to increases or decreases in annual rates of expansion
-10. 09_sensitivity-restorable-area.R
+11. 08_sensitivity-restorable-area.R
     - Produce Fig S3, test the sensitivity of extent change projections to increases or decreases in restorable area
-11. 10_sensitivity-protection-efficacy.R
+12. 09_sensitivity-protection-efficacy.R
     - Produce Fig S4, test the sensitivity of extent change projections to the effectiveness of protection
-12. 11_sensitivity-protection-assumptions.R
+13. 10_sensitivity-protection-assumptions.R
     - Produce Fig S5, test the sensitivity of extent change projections to PADD, leakage and whether seagrass protection is targeted
-13. 12_sensitivity-restoration-success.R
+14. 11_sensitivity-restoration-success.R
     - Produce Fig S6, test the sensitivity of extent change projections to variable restoration success
 
 ### Data sources
