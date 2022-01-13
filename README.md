@@ -2,7 +2,7 @@
 
 Citation: Buelow et al. (*under review*) *'Ambitious targets for mangrove and seagrass recovery'* in **Current Biology**
 
-An interactive web application and associated code can be found [here](https://github.com/cabuelow/wetland-futures-app)
+An interactive web application and associated code can be found [here](https://github.com/cabuelow/target-setting)
 
 [About](#about) | [Summary](#summary) | [Scripts](#scripts) | [Data sources](#data-sources) | [License](LICENSE)
 
