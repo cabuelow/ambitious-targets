@@ -63,7 +63,7 @@ There is an urgent need to halt and reverse loss of mangroves and seagrass to pr
 
 | Ecosystem  | Data source(s) for processing/analysis |
 | ------------- | ------------- |
-| Mangrove | Bunting P., Rosenqvist A., Lucas R., Rebelo L-M., Hilarides L., Thomas N., Hardy A., Itoh T., Shimada M. and Finlayson C.M. 2018. The Global Mangrove Watch – a New 2010 Global Baseline of Mangrove Extent. Remote Sensing 10(10): 1669. doi:10.3390/rs1010669.
+| Mangrove | Bunting P., Rosenqvist A., Lucas R., Rebelo L-M., Hilarides L., Thomas N., Hardy A., Itoh T., Shimada M. and Finlayson C.M. 2018. The Global Mangrove Watch – a New 2010 Global Baseline of Mangrove Extent. Remote Sensing 10(10): 1669. doi:10.3390/rs1010669
 | Mangrove | Goldberg, L., Lagomasino, D., Thomas, N., & Fatoyinbo, T. 2020. Global declines in human‐driven mangrove loss. Global Change Biology, gcb.15275. https://doi.org/10.1111/gcb.15275
 | Mangrove | UNEP-WCMC, IUCN. 2021. Protected Planet: The World Database on Protected Areas (WDPA). Available at:https://www.protectedplanet.net/en
 | Seagrass | Dunic, J. C., Brown, C. J., Connolly, R. M., Turschwell, M. P., & Côté, I. M. 2021. Long‐term declines and recovery of meadow area across the world’s seagrass bioregions. Global Change Biology, gcb.15684. https://doi.org/10.1111/gcb.15684
