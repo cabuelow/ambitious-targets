@@ -4,7 +4,7 @@ Citation: Buelow et al. (*under review*) *'Ambitious targets for mangrove and se
 
 An interactive web application and associated code can be found [here](https://github.com/cabuelow/wetland-futures-app)
 
-[About](#about) | [Abstract](#abstract) | [Scripts](#scripts) | [Data sources](#data-sources) | [License](LICENSE)
+[About](#about) | [Summary](#summary) | [Scripts](#scripts) | [Data sources](#data-sources) | [License](LICENSE)
 
 ### About
 
