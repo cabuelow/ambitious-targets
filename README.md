@@ -14,6 +14,10 @@ This repository provides the code and data to reproduce all figures and suppleme
 
 There is an urgent need to halt and reverse loss of mangroves and seagrass to protect the ecosystem services they provide, such as enhancing coastal resilience and contributing to climate stability. Ambitious targets for their recovery can inspire public and private investment in conservation, but the expected benefits of different protection and restoration strategies is unclear. We estimated potential recovery of mangrove and seagrass ecosystems to the year 2050 under a range of intermediate and ambitious protection and restoration strategies. We measured recovery as gains in ecosystem extent against a baseline scenario of no additional conservation. By 2050, protection alone is unlikely to drive sufficient recovery, achieving a maximum global net gain in seagrass extent of only 1.3% additional to total observed extent, and slowing, but not stopping, current trajectories of net mangrove loss. However, if action is taken to both protect and restore, net gains of up to 35% and 5% of seagrasses and mangroves, respectively, could be achieved by 2050. Further, protection and restoration are complementary, as protection prevents losses that would otherwise occur post-2050. Our findings provide the scientific evidence required for setting strategic and ambitious targets to inspire significant global investment and effort in mangrove and seagrass conservation. 
 
+<p align="center">
+  <img width="600" height="350" src="https://github.com/cabuelow/ambitious-targets/blob/main/map.png">
+</p>
+
 ### Scripts
 
 #### Prepare data for model projections and produce summary information for supplementary material
