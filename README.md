@@ -1,4 +1,4 @@
-## Code and data for ‘Ambitious global targets for mangrove and seagrass recovery'
+## Code for ‘Ambitious global targets for mangrove and seagrass recovery'
 
 Citation: Buelow et al. (*under review*) *'Ambitious global targets for mangrove and seagrass recovery'* in **Current Biology**
 
@@ -8,7 +8,7 @@ An interactive web application and associated code can be found [here](https://g
 
 ### About
 
-This repository provides the code and data to reproduce all figures and supplemental figures/tables found in Buelow et al. (*under review*)
+This repository provides the code to reproduce all figures and supplemental figures/tables found in Buelow et al. (*under review*). All data underpinning the analyses is publicly available and can be downloaded from ['Data sources'](#data-sources) table below. 
 
 ### Summary
 
