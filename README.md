@@ -27,7 +27,6 @@ There is an urgent need to halt and reverse loss of mangroves and seagrass to pr
     - Produce Table S2
 2. 02_outlier-capping.R
     - Identify and cap annual rate of extent change outliers
-    - Produce Table S3
 
 #### Project mangrove and seagrass extent under baseline and conservation scenarios
 
@@ -47,17 +46,17 @@ There is an urgent need to halt and reverse loss of mangroves and seagrass to pr
 #### Sensitivity analyses
 
 9. 06_sensitivity-loss-rates.R
-   - Produce Fig S1, test the sensitivity of extent change projections to increases or decreases in annual rates of loss
+   - Produce panel for Fig S1, test the sensitivity of extent change projections to increases or decreases in annual rates of loss
 10. 07_sensitivity-expansion-rates.R
-    - Produce Fig S2, test the sensitivity of extent change projections to increases or decreases in annual rates of expansion
+    - Produce panel for Fig S1, test the sensitivity of extent change projections to increases or decreases in annual rates of expansion
 11. 08_sensitivity-restorable-area.R
-    - Produce Fig S3, test the sensitivity of extent change projections to increases or decreases in restorable area
+    - Produce panel for Fig S1, test the sensitivity of extent change projections to increases or decreases in restorable area
 12. 09_sensitivity-protection-efficacy.R
-    - Produce Fig S4, test the sensitivity of extent change projections to the effectiveness of protection
+    - Produce panel for Fig S2, test the sensitivity of extent change projections to the effectiveness of protection
 13. 10_sensitivity-protection-assumptions.R
-    - Produce Fig S5, test the sensitivity of extent change projections to PADD, leakage and whether seagrass protection is targeted
+    - Produce panel for Fig S2, test the sensitivity of extent change projections to PADD, leakage and whether seagrass protection is targeted
 14. 11_sensitivity-restoration-success.R
-    - Produce Fig S6, test the sensitivity of extent change projections to variable restoration success
+    - PProduce panel for Fig S1, test the sensitivity of extent change projections to variable restoration success
 
 ### Data sources
 
