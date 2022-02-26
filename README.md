@@ -1,6 +1,6 @@
 ## Code for ‘Ambitious global targets for mangrove and seagrass recovery'
 
-Citation: Buelow et al. (*under review*) *'Ambitious global targets for mangrove and seagrass recovery'* in **Current Biology**
+Citation: Buelow et al. (2022) *'Ambitious global targets for mangrove and seagrass recovery'* in **Current Biology**
 
 An interactive web application and associated code can be found [here](https://github.com/cabuelow/target-setting-app)
 
